@@ -1,0 +1,8 @@
+#!bin/bash
+PERSON1=$1
+PERSON2=$2
+echo "$PERSON1:: WELCOME TO INDIA $PERSON2
+echo "$PERSON2:: THANK YOU $PERSON1
+echo "$PERSON1:: So we have a deal
+echo "$PERSON2:: YES WE HAVE
+
